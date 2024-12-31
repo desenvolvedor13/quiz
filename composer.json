@@ -1,0 +1,11 @@
+{
+    "name": "vendor/quiz",
+    "description": "Description of project quiz.",
+    "authors": [
+        {
+            "name": "samue",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {}
+}
